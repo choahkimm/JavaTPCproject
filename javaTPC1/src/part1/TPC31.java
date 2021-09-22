@@ -43,5 +43,6 @@ Inflearn.java();
         // Math m = new Math();
         int v = Math.max(10,20);
         System.out.println(v);
+        
     }
 }
