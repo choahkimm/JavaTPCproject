@@ -6,7 +6,7 @@ import part1.kr.tpc.MemberVO;
 
 // 정보 은닉 : 다른 객체로부터 접근을 막는 것 (private)
 // VO, DTO 설계할 때 setter, getter 메서드를 이용해서 설계
-public class TPC14
+public class TPC15
 {
     public static void main(String[] args)
     {
