@@ -4,7 +4,7 @@ public interface RemoCon {
     // 인터페이스는 객체 생성 X  : RemoteCon r = new RemoteCon(); 안된다는 소리
 
     // 상수를 수정 가능
-    public static final int MAXCH = 100; // RemoCon.MAXCH  이런 식으로 접근
+    public int MAXCH = 100; // RemoCon.MAXCH  이런 식으로 접근
     public final static int MINCH = 1;
 
 
