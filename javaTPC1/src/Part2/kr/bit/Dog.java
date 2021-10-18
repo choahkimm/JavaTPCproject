@@ -1,4 +1,4 @@
-package Part2.kr;
+package Part2.kr.bit;
 
 public class Dog  extends Animal{
     public void eat() {

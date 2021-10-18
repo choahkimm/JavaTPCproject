@@ -1,8 +1,8 @@
 package Part2;
 
-import Part2.poly.Animal;
-import Part2.poly.Cat;
-import Part2.poly.Dog;
+import Part2.kr.poly.Animal;
+import Part2.kr.poly.Cat;
+import Part2.kr.poly.Dog;
 
 public class TPC25 {
     public static void main(String[] args) {

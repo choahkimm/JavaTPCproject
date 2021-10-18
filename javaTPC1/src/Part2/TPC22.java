@@ -1,8 +1,8 @@
 package Part2;
 
-import Part2.kr.Animal;
-import Part2.kr.Cat;
-import Part2.kr.Dog;
+import Part2.kr.bit.Animal;
+import Part2.kr.bit.Cat;
+import Part2.kr.bit.Dog;
 
 public class TPC22 {
     public static void main(String[] args) {

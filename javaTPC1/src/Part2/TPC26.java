@@ -1,8 +1,8 @@
 package Part2;
 
-import Part2.poly.Radio;
-import Part2.poly.RemoCon;
-import Part2.poly.TV;
+import Part2.kr.poly.Radio;
+import Part2.kr.poly.RemoCon;
+import Part2.kr.poly.TV;
 
 public class TPC26 {
     public static void main(String[] args) {

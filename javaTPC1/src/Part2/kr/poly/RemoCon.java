@@ -1,4 +1,4 @@
-package Part2.poly;
+package Part2.kr.poly;
 
 public interface RemoCon {
     // 인터페이스는 객체 생성 X  : RemoteCon r = new RemoteCon(); 안된다는 소리

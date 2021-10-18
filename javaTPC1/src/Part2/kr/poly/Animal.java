@@ -1,4 +1,4 @@
-package Part2.poly;
+package Part2.kr.poly;
 
 public abstract class Animal { // 추상 클래스 (불완전한 객체)
 

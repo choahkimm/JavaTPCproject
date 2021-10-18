@@ -1,4 +1,4 @@
-package Part2.poly;
+package Part2.kr.poly;
 
 public class Dog extends Animal {
 

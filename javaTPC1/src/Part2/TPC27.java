@@ -1,7 +1,7 @@
 package Part2;
 
-import Part2.poly.RemoCon;
-import Part2.poly.TV;
+import Part2.kr.poly.RemoCon;
+import Part2.kr.poly.TV;
 
 public class TPC27 {
     public static void main(String[] args) {
