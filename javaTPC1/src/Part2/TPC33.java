@@ -12,5 +12,12 @@ public class TPC33 {
 
         // 접근 방법
         // class full name, 접근 권한을 알아야 한다.
+
+        // MyClass에 접근하기
+        kr2.inflearn.MyClass my = new kr2.inflearn.MyClass();
+        int v = my.sum(10, 100);
+        System.out.println(v);
+
+        // 아니면 import 해주기
     }
 }
